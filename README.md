@@ -1,2 +1,2 @@
 # cr_ci
-Test exercise
+Test exercise 2
